@@ -1,5 +1,5 @@
-# hey, i'm ameeq 
+# hey, i'm ameeq ;)
 
-i'm a computer science sophomore who likes building things.
+i'm usually building something, learning something, or staying up way later than i planned.
 
-these days you'll probably find me working on machine learning projects, learning deep learning, or digging through formula 1 data just because it's fun.
+currently into machine learning, deep learning, f1, sketching, and side projects that started out as "just a quick idea."
