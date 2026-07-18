@@ -4,6 +4,3 @@ i'm a computer science sophomore who enjoys building things and learning by doin
 
 away from my keyboard, i'm sleeping, sketching, or awake for absolutely no reason at night.
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/b6/a3/89/b6a3893c0f3118dcca1f843bfb49e73d.jpg"alt="banner" width="100%">
-</p>
