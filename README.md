@@ -1,5 +1,5 @@
 # hey, i'm ameeq ;)
 
-i'm usually building something, learning something, or staying up way later than i planned.
+i'm a computer science sophomore who enjoys building things and learning by doing, lately i've been diving into machine learning and deep learning, and most of the projects here are a reflection of that journey.
 
-currently into machine learning, deep learning, f1, sketching, and side projects that started out as "just a quick idea."
+away from my keyboard, i'm into sketching, f1, and the occasional late-night idea that refuses to let me sleep until i've at least started building it.
