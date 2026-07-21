@@ -5,5 +5,5 @@ i'm a computer science sophomore who enjoys building things and learning by doin
 away from my keyboard, i'm sleeping, sketching, or awake for absolutely no reason at night.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" width="80%">
+  <img src="https://i.pinimg.com/control1/1200x/e3/0a/a8/e30aa82fca0f46cc14f2a80302999cb9.jpg" width="100%">
 </p>
