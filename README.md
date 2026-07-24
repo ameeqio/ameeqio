@@ -8,4 +8,4 @@ away from my keyboard, i'm sleeping, sketching, or awake for absolutely no reaso
   <img src="https://i.pinimg.com/1200x/e9/a6/d9/e9a6d9e8f0489d5a894758df14d3e445.jpg" width="100%">
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameeqio&bg_color=0d1117&color=89b4fa&line=89b4fa&point=89b4fa&area=true&area_color=89b4fa&hide_border=true)](https://github.com/ameeqio)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameeqio&bg_color=0d1117&color=CBA6F7&line=CBA6F7&point=E6E1FF&area=true&area_color=B4A7FF&hide_border=true)](https://github.com/ameeqio)
