@@ -5,7 +5,7 @@ a computer science sophomore who enjoys building things and learning by doing, l
 away from my keyboard, i'm sleeping, sketching, or awake for absolutely no reason at night.
 
 <p align="center">
-  <img src=""C:\Users\donalduck\Desktop\WALLPAPERS\banner10.png"" width="100%">
+  <img src="C:\Users\donalduck\Desktop\WALLPAPERS\banner10.png" width="100%">
 </p>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameeqio&bg_color=0D1117&color=E5E5E5&line=707070&point=D4D4D4&area=true&area_color=3A3A3A&hide_border=true)](https://github.com/ameeqio)
